@@ -1,4 +1,4 @@
-module github.com/bep/modtest-resource
+module github.com/bep/modtestresource
 
 go 1.12
 
